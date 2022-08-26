@@ -7,7 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="sqlite-jdbc-3.5.8" level="project" />
-    <orderEntry type="library" name="jar_files" level="project" />
+    <orderEntry type="library" name="javafx-swing-11" level="project" />
+    <orderEntry type="library" name="javafx-swing-11-linux" level="project" />
+    <orderEntry type="library" name="javafx-media-20-ea+2" level="project" />
+    <orderEntry type="library" name="javafx-base-19-ea+6-linux" level="project" />
+    <orderEntry type="library" name="sqlite-jdbc-3.20.1" level="project" />
   </component>
 </module>

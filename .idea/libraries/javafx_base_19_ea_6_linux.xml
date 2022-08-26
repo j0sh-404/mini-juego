@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javafx-base-19-ea+6-linux">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/javafx-base-19-ea+6-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/javafx-graphics-19-ea+6-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/javafx-media-19-ea+6-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/javafx-swing-19-ea+6-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
